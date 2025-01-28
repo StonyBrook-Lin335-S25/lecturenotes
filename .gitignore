@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.md
+!*.ipynb
+!*.pdf
+!notebooks/
+!notebooks/**/
+!sylllabus/
+!sylllabus/**/
