@@ -2,7 +2,8 @@
 !.gitignore
 !*.md
 !*.ipynb
-!*.pdf
+!handouts/
+!handouts/**/
 !notebooks/
 !notebooks/**/
 !sylllabus/
